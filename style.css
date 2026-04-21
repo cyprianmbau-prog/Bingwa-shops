@@ -1,5 +1,19 @@
-h1 {
-    color: red;
+body {
+
+
+    background-color: rgb(238, 244, 77);
+
+    h1 {
+        text-align: center;
+        padding: 20px;
+        background-color: rgb(179, 240, 105)
+    }
+
+    p {
+        font-size: 25px;
+        color: black;
+        ;
+    }
 }
 
 p {
