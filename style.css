@@ -1,18 +1,29 @@
 body {
 
-
     background-color: rgb(238, 244, 77);
 
     h1 {
+        fon-size: 40px;
+        color: white;
         text-align: center;
-        padding: 20px;
+        padding: 50px;
+        margin: 5px;
         background-color: rgb(179, 240, 105)
     }
 
     p {
-        font-size: 25px;
+        a {
+            padding: 30px;
+            margin: 30px;
+            color: red;
+        }
+
+        padding:30px;
+        margin: 30px;
+        text-align: center;
+        font-size: 15px;
         color: black;
-        ;
+
     }
 }
 
